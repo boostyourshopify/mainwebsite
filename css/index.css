@@ -137,6 +137,7 @@ button {
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.3s;
+    color:var(--text);
 }
 
 button:hover{
