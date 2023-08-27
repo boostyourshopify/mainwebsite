@@ -83,6 +83,7 @@ body {
     gap:10px;
     flex-grow:1;
     min-width: 180px;
+    max-width: 250px;
 }
 
 .card-lite{
