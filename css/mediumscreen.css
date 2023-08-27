@@ -1,0 +1,15 @@
+.section-div{
+    flex-direction: column;
+}
+
+.section {
+    padding: 40px 20px;
+}
+
+.section-columns {
+    flex-direction: column;
+}
+
+#first-section-image {
+    display: none;
+}
